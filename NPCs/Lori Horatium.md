@@ -1,17 +1,19 @@
 
 ---
-name: <% tp.file.title %>
-race: <% tp.file.cursor(0) %>
+name: Lori Horatium
+race: Fee
 class:
-appearance:
-ethos:
-date_encounter: 478-
+appearance: blonde Haare, (?)
+ethos: gut
+date_encounter: 478-06-29
 ---
 ### Metadaten
 location:: [[]]
 trade:: [[]]
 
 ## Beschreibung
+
+Lieblingsfarben: purpur, seegrün, helles gelb
 
 ## Quests
 ```dataview
