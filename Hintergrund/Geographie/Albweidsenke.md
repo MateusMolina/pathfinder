@@ -1,0 +1,2 @@
+- Nauger's Krypta - unheiliger Zauberer (100km nördlich Kaplerns)
+- Helldorn - Ruine, Schätze, verlassene Elfenstadt
