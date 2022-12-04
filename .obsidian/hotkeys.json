@@ -1,0 +1,31 @@
+{
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-editor-shortcuts:selectLine": [],
+  "editor:delete-paragraph": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertLineAbove": []
+}

@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f453f130ff816208",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43d8a541d174e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f02d11f8d1dcab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Flam Trymbold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e991dca7c3a5e600",
+    "type": "split",
+    "children": [
+      {
+        "id": "504a64c0db494811",
+        "type": "tabs",
+        "dimension": 67.25417439703153,
+        "children": [
+          {
+            "id": "307591ba2f2f0d73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07c3f70c5760c302",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea4aa988560e90ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc4cc8e1b81f3c79",
+        "type": "tabs",
+        "dimension": 32.74582560296846,
+        "children": [
+          {
+            "id": "ed95aec89b71161b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "4546edfd1c51ff41",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9baea323977b023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "570d3db75cfd06a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Flam Trymbold.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "423fcb76aa2780e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Flam Trymbold.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15b00906a52416f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "093ff6c096b06b18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Flam Trymbold.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "01f02d11f8d1dcab",
+  "lastOpenFiles": [
+    "NPCs/#NPCs.md",
+    "NPCs/Flam Trymbold.md",
+    "Quests/Flam heilen.md",
+    "Quests/#Quests.md"
+  ]
+}
