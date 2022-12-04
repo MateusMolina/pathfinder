@@ -1,13 +1,13 @@
 ---
-name: <% tp.file.title %>
-area: <% tp.file.cursor(0) %>
-danger: 
+name: Mahnmal der totlosen Bande
+area: 
+danger: medium-high
 date_first_visited: 478-
 date_last_visited: 478-
 ---
 
 ## Beschreibung
-
+Ein Ort, an dem irgendetwas schreckliches vorgefallen ist!
 
 
 ## NPCs
