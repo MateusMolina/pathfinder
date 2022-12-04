@@ -18,15 +18,7 @@
   ],
   "obsidian-editor-shortcuts:selectLine": [],
   "editor:delete-paragraph": [],
-  "editor:open-link-in-new-leaf": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "editor:open-link-in-new-leaf": [],
   "obsidian-editor-shortcuts:insertLineAbove": [],
   "daily-notes": [
     {
@@ -34,6 +26,32 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
     }
   ]
 }

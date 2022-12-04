@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b43d8a541d174e76",
+        "id": "a3d5ed9610d94445",
         "type": "tabs",
         "children": [
           {
-            "id": "01f02d11f8d1dcab",
+            "id": "a5360948bc5ee70a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/session_notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e1d3b83a78189b2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "777bb223516a91d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/index.md",
+                "file": "NPCs/#NPCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/session_notes.md",
+                "file": "NPCs/#NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/session_notes.md",
+                "file": "NPCs/#NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,27 +141,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/session_notes.md"
+                "file": "NPCs/#NPCs.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "01f02d11f8d1dcab",
+  "active": "a5360948bc5ee70a",
   "lastOpenFiles": [
-    "Templates/index.md",
-    "Templates/location.md",
-    "Session Notes/2022-12-04.md",
-    "Quests/Flam heilen.md",
-    "Templates/session_notes.md",
-    "Templates/quest.md",
-    "NPCs/Flam Trymbold.md",
+    "NPCs/Balbinya.md",
     "NPCs/#NPCs.md",
-    "Quests/#Quests.md"
+    "Orte/Mahnmal der totlosen Bande.md",
+    "Orte/Balbinya's Wohnzimmer.md",
+    "Orte/#Orte.md",
+    "Quests/Ein paar Dinge auftreiben.md",
+    "NPCs/Flam Trymbold.md",
+    "Quests/Flam heilen.md",
+    "Templates/dataview.md",
+    "NPCs/Lori Horatium.md"
   ]
 }
