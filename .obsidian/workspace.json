@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d5ed9610d94445",
+        "id": "b52d9477ce4cd123",
         "type": "tabs",
         "children": [
           {
-            "id": "a5360948bc5ee70a",
+            "id": "d784f0034641f181",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/#NPCs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/#NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/#NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPCs/#NPCs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a5360948bc5ee70a",
+  "active": "d784f0034641f181",
   "lastOpenFiles": [
-    "NPCs/Balbinya.md",
-    "NPCs/#NPCs.md",
-    "Orte/Mahnmal der totlosen Bande.md",
-    "Orte/Balbinya's Wohnzimmer.md",
-    "Orte/#Orte.md",
+    "Templates/quest.md",
+    "Quests/Irreale Musik-Kristalle.md",
+    "NPCs/Wulfgar Kranz.md",
+    "NPCs/Lori Horatium.md",
+    "NPCs/Ansgar Buree.md",
     "Quests/Ein paar Dinge auftreiben.md",
-    "NPCs/Flam Trymbold.md",
+    "Orte/Dunkelstieg.md",
+    "Templates/npc.md",
     "Quests/Flam heilen.md",
-    "Templates/dataview.md",
-    "NPCs/Lori Horatium.md"
+    "Quests/#Quests.md"
   ]
 }

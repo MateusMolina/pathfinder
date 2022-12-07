@@ -1,1 +1,0 @@
-- Taverne Laubhaufen - Besitzer [[Kirchner]]

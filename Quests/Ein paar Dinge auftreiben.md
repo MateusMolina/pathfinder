@@ -1,5 +1,5 @@
 ---
-name: ein paar Dinge auftreiben
+name: Ein paar Dinge auftreiben
 priority: high
 danger: medium
 status: worked on
@@ -29,7 +29,7 @@ Essenz-->erwecken-->transmutieren
 ```
 
 [[Transmutation]]
-"Aus den zwei ähnlichsten Elementen kann ein Element erweckt werden."
+Aus den zwei ähnlichsten Elementen kann ein Element erweckt werden.
 ```mermaid
 graph
 Feuer-->Luft

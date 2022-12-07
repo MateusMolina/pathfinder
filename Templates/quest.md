@@ -10,12 +10,9 @@ date_finished_ig: 478-
 ---
 ### Metadaten
 client:: [[]]
-location:: Wald vor [[]]
+location:: [[]]
 
 ## Beschreibung
- 
-
-## Ausrüstung
  
 
 ## Stand

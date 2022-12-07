@@ -1,6 +1,7 @@
 ---
 name: <% tp.file.title %>
 area: <% tp.file.cursor(0) %>
+type:
 danger: 
 date_first_visited: 478-
 date_last_visited: 478-
@@ -14,12 +15,5 @@ date_last_visited: 478-
 ```dataview
 table date_encounter as "Kennengelernt am"
 from "NPCs"
-where location = this.file.name
-```
-
-## Quests
-```dataview
-table date_created_ig as "Angenommen", date_finished_ig as "Abgeschlossen"
-from "Quests"
 where location = this.file.name
 ```

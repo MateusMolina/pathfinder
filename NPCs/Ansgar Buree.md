@@ -1,15 +1,15 @@
 
 ---
-name: <% tp.file.title %>
-race: <% tp.file.cursor(0) %>
+name: Ansgar Buree
+race: 
 class:
 appearance:
-ethos:
-date_encounter: 478-
+ethos: ?
+date_encounter: 478-06-27
 ---
 ### Metadaten
-location:: [[]]
-trade:: [[]]
+location:: [[Dunkelstieg]]
+trade:: [[Geomantie]]
 
 ## Beschreibung
 
