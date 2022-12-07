@@ -6,5 +6,8 @@
   "nldates-obsidian",
   "obsidian-pandoc",
   "templater-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-banners",
+  "fantasy-calendar",
+  "obsidian-leaflet-plugin"
 ]

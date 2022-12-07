@@ -1,0 +1,101 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Feenferisches Nordland",
+      "lastAccessed": 1670433983866,
+      "markers": [
+        {
+          "id": "ID_ea1a8b8b2b4a",
+          "type": "default",
+          "loc": [
+            -0.84991455078125,
+            2.6669921875
+          ],
+          "layer": "%5B%5BFeenferisches%20Nordland.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a4969e98be9",
+          "type": "default",
+          "loc": [
+            -1.4771728515625,
+            2.509765625
+          ],
+          "layer": "%5B%5BFeenferisches%20Nordland.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_785b79295909",
+          "type": "default",
+          "loc": [
+            -1.8092041015625,
+            2.384765625
+          ],
+          "layer": "%5B%5BFeenferisches%20Nordland.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Orte/Kaplern.md",
+        "Templates/location.md",
+        "Orte/Dunkelstieg.md",
+        "Orte/Balbinya's Wohnzimmer.md",
+        "Orte/Mahnmal der totlosen Bande.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#eacd3e",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.1.1",
+  "version": {
+    "major": 5,
+    "minor": 1,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

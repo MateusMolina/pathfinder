@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b52d9477ce4cd123",
+        "id": "a63bb14e5a9bd99e",
         "type": "tabs",
         "children": [
           {
-            "id": "d784f0034641f181",
+            "id": "5f67e793128f1191",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Kaplern.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "504a64c0db494811",
         "type": "tabs",
-        "dimension": 67.25417439703153,
+        "dimension": 69.6660482374768,
         "children": [
           {
             "id": "307591ba2f2f0d73",
@@ -65,15 +69,15 @@
         ]
       },
       {
-        "id": "cc4cc8e1b81f3c79",
+        "id": "e05c8a57499ec2bb",
         "type": "tabs",
-        "dimension": 32.74582560296846,
+        "dimension": 30.333951762523192,
         "children": [
           {
-            "id": "ed95aec89b71161b",
+            "id": "6059b882cacd50c5",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orte/Kaplern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orte/Kaplern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,26 +140,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orte/Kaplern.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
-  "active": "d784f0034641f181",
+  "active": "5f67e793128f1191",
   "lastOpenFiles": [
-    "Templates/quest.md",
-    "Quests/Irreale Musik-Kristalle.md",
-    "NPCs/Wulfgar Kranz.md",
-    "NPCs/Lori Horatium.md",
-    "NPCs/Ansgar Buree.md",
-    "Quests/Ein paar Dinge auftreiben.md",
     "Orte/Dunkelstieg.md",
-    "Templates/npc.md",
-    "Quests/Flam heilen.md",
-    "Quests/#Quests.md"
+    "Orte/Balbinya's Wohnzimmer.md",
+    "Orte/Kaplern.md",
+    "Orte/Mahnmal der totlosen Bande.md",
+    "Templates/location.md",
+    "Maps/Feenferisches Nordland.jpg",
+    "Templates/quest.md",
+    "Orte/#Orte.md",
+    "Bogus/Background.md",
+    "Bogus/Witze.md"
   ]
 }
