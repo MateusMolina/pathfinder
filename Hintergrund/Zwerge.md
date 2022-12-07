@@ -1,0 +1,1 @@
+- sind resistent gegen Gift
